@@ -26,3 +26,14 @@ Use this playlist as long as you are learning Python:
 
 * ### Python - Hello, World
 * ### Python - if/else, loops, functions
+* ### Python - import & modules
+* ### Python - Data Structures: Lists, Tuples
+* ### Python - More Data Structures: set, Dictionary
+* ### Python - Exceptions
+* ### Python - Classes and Objects
+* ### Python - Test-driven development
+* ### Python - More Classes and Objects
+* ### Python - Everything is objects
+* ### Python - Inheritance
+* ### Python - Imput/Output
+* ### Python - Almost a circle
