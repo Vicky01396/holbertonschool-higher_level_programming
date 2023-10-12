@@ -19,6 +19,30 @@ Use this playlist as long as you are learning Python:
 * Learn to Program 2 : Looping
 * Pycodestyle – Style Guide for Python Code
 
+* Modules
+* Command line arguments
+* Pycodestyle – Style Guide for Python Code
+
+* 3.1.3. Lists
+* Data structures (until 5.3. Tuples and Sequences included)
+* Learn to Program 6 : Lists
+
+* Data structures
+* Lambda, filter, reduce and map
+* Learn to Program 12 Lambda Map Filter Reduce
+
+* Errors and Exceptions
+* Learn to Program 11 Static & Exception Handling (starting at minute 7)
+
+* Object Oriented Programming (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)
+* Object-Oriented Programming (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)
+* Properties vs. Getters and Setters
+* Learn to Program 9 : Object Oriented Programming
+* Python Classes and Objects
+* Object Oriented Programming
+
+* 
+
 * #### man
 * python3
 
