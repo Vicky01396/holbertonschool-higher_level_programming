@@ -41,7 +41,10 @@ Use this playlist as long as you are learning Python:
 * Python Classes and Objects
 * Object Oriented Programming
 
-* 
+* args/kwargs
+* JSON encoder and decoder
+* unittest module
+* Python test cheatsheet
 
 * #### man
 * python3
