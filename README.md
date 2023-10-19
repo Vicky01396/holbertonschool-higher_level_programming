@@ -46,8 +46,26 @@ Use this playlist as long as you are learning Python:
 * unittest module
 * Python test cheatsheet
 
+* OSI model
+* Different types of network
+* LAN network
+* WAN network
+* Internet
+* MAC address
+* What is an IP address
+* Private and public address
+* IPv4 and IPv6
+* Localhost
+* TCP and UDP
+* TCP/UDP ports List
+* What is ping /ICMP
+* Positional parameters
+
 * #### man
 * python3
+
+* netstat
+* ping
 
 ## Projects
 
@@ -64,4 +82,4 @@ Use this playlist as long as you are learning Python:
 * ### Python - Inheritance
 * ### Python - Imput/Output
 * ### Python - Almost a circle
-a
+* ### Networking basics #0
