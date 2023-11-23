@@ -77,5 +77,5 @@ class Rectangle(Base):
 
     def __str__(self):
         """ shows the name of the class and its value """
-        return f"[Rectangle]({self.id}) {self.x}/{self.y} \
- - {self.width}/{self.height}"
+        return f"[Rectangle] ({self.id}) {self.x}/{self.y} \
+- {self.width}/{self.height}"
