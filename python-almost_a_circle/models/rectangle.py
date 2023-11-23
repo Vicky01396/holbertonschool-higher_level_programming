@@ -110,3 +110,14 @@ class Rectangle(Base):
                     self.x = v
                 if k == "y":
                     self.y = v
+
+    def to_dictionary(self):
+        """Dictionary of Rectangle"""
+        neko = {
+            "x": self.x,
+            "y": self.y,
+            "id": self.id,
+            "height": self.height,
+            "width": self.width
+        }
+        return neko
