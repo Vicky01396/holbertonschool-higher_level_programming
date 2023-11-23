@@ -104,7 +104,7 @@ class Rectangle(Base):
                     self.id = v
                 if k == "width":
                     self.width = v
-                if k == "heigth":
+                if k == "height":
                     self.height = v
                 if k == "x":
                     self.x = v
