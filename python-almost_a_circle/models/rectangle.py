@@ -5,6 +5,7 @@ from .base import Base
 
 class Rectangle(Base):
     """ class rectangle """
+
     def __init__(self, width, height, x=0, y=0, id=None):
         """contructor method"""
         super().__init__(id)
@@ -64,3 +65,12 @@ class Rectangle(Base):
     def area(self):
         """ returns the value of the area of the Rectangle instance """
         return self.width * self.height
+
+    def display(self):
+        """ prints in stdout the Rectangle """
+        for h in range(1, self.height + 1):
+            for w in range(1, self.width + 1):
+                if w == self.width:
+                    print("#")
+                else:
+                    print("#", end=(""))
